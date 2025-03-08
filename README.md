@@ -52,12 +52,12 @@ REPO_URL=https://github.com/YOUR_GITHUB_NICK/YOUR_REPOSITORY
 BRANCH_NAME=main
 
 # Commit generation for Daily Commit Generator
-TARGET_YEAR=2022
+TARGET_YEAR=2024
 MIN_COMMITS_PER_DAY=1
-MAX_COMMITS_PER_DAY=5
+MAX_COMMITS_PER_DAY=3
 
 # Commit generation for Inscription Generator
-COMMITS_PER_X=10
+COMMITS_PER_X=5
 ```
 
 All configuration for the scripts is centralized in the `.env` file. Adjust the values as needed. 🛠️
