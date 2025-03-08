@@ -36,7 +36,7 @@ MAX_COMMITS_PER_DAY = int(os.getenv("MAX_COMMITS_PER_DAY", "3"))
 
 # We'll create commits from Jan 1 (inclusive) to Dec 31 (exclusive)
 start_date = datetime(TARGET_YEAR, 1, 1)
-end_date   = datetime(TARGET_YEAR, 12, 31)  # Not included in the loop
+end_date   = datetime(TARGET_YEAR, 7, 2)  # Not included in the loop
 
 # File for fake commits (stored in src/commit_log.txt)
 repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
