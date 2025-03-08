@@ -2,6 +2,9 @@
 
 Fancy History is a `python` toolkit to jazz up your GitHub contribution graph! 🚀✨
 
+![Preview1](https://raw.githubusercontent.com/danilrez/fancy-git-history/refs/heads/main/images/gameover.png)
+![Preview2](https://raw.githubusercontent.com/danilrez/fancy-git-history/refs/heads/main/images/fancyhistory.png)
+
 ## Features
 
 -   **Daily Commit Generator:** Generates a random number of commits for every day within a specified year. 📆
