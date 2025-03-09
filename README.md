@@ -1,4 +1,4 @@
-# 🚀 Fancy History
+# 🚀 Fancy Git History
 
 It is a fun little `python` toolkit designed to spice up your GitHub contribution graph! 🎨✨
 
